@@ -1,0 +1,3 @@
+Kullanici_Adi Parola Kullanici_Tipi
+admin admin123 admin
+elif elif123 admin
